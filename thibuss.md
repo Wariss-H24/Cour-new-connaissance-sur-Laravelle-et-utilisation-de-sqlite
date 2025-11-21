@@ -1,0 +1,1 @@
+ php artisan make:migration add_avatar_to_users_table --table=users
